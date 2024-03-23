@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [food delivery](https://door-dash-dine.netlify.app/restaurant)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shibilamjad/Food-Delivery.git](https://github.com/shibilamjad/Food-Delivery.git)
+- 👨‍💻 My projects are available at [https://github.com/shibilamjad/Food-Delivery.git](https://github.com/shibilamjad/Food-Delivery.git)
 
 - 🔭 I’m currently Learning on **ReactNative**
 - 
