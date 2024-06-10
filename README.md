@@ -8,8 +8,6 @@
 
 - 👨‍💻 My projects are available at [https://github.com/shibilamjad/Food-Delivery.git](https://github.com/shibilamjad/Food-Delivery.git)
 
-- 🔭 I’m currently Learning on **ReactNative**
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **shibiliamjad6@gmail.com**
